@@ -1,5 +1,7 @@
 # LoRA-Talkie
-<img width="593" height="491" alt="image" src="https://github.com/user-attachments/assets/d8b9d8c1-05b4-43fe-b395-4605cf191b55" />
+<img width="530" height="569" alt="image" src="https://github.com/user-attachments/assets/f21416f9-172d-48bb-a257-a688488ba8b5" />
+<img width="415" height="650" alt="image" src="https://github.com/user-attachments/assets/f5ce1561-2d39-43b9-beb7-978eb588cad6" />
+
 
 # FEATURES
 Some features of the LoRA talkie are:<br>
