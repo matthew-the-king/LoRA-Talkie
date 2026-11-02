@@ -24,8 +24,8 @@ Some features of the LoRA talkie are:<br>
 | D1 | D_SMA | 1 | 100V | [Link](https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/SK310A-LTP/2642015) | $0.49 |
 | FB1 | 0603 | 1 | 120R | [Link](https://www.digikey.com/en/products/detail/pulse-electronics/PE-0603PFB121ST/5050544) | $0.10 |
 | J1 | SAMESKY_UJ20-C-H-G-SMT-1-P16-TR | 1 | USB_Charging | [Link](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-G-SMT-P16-TR/24818595) | $0.65 |
-| J2 | PinHeader_1x06_P2.54mm_Vertical | 1 | Conn_01x06_Pin | [Link]() | |
-| J3 | CON_5051104091_MOL | 1 | 5051104091 | [Link](https://www.amazon.com/OCR-2-54mm-Breakaway-Connector-Arduino/dp/B0774VBJ3J/ref=sr_1_2_sspa?crid=3J6H8LMHZ3SS7&dib=eyJ2IjoiMSJ9.35ltPefTPqBOnQt_Ox_TI26xwO1SUs2D77_fY3-RewSFTh-Cg8mBGlhuQxJwY89Mr4AgBN51BE7EsK02txVfVMnuuAjss-PjZL7qeSK4j40VJrMjoEril4qtKCOSjhfoPAH9JvUulpll43v0f4zjy2FrXDKvMc4G_wxu7sPNflaKCRbgrA9vVlxch59x1EZD3Y7EnoJa7C-2_ka6BTX_5JUtUE_swCo9AXBNMqk3MVs.SY4UzEpKVAgJBn7IC6m1spKX7Eiw372FChIrKJbkStU&dib_tag=se&keywords=pin+headers&qid=1793638701&sprefix=pin+headers%2Caps%2C236&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | $10 for a kit|
+| J2 | PinHeader_1x06_P2.54mm_Vertical | 1 | Conn_01x06_Pin | [Link](https://www.amazon.com/OCR-2-54mm-Breakaway-Connector-Arduino/dp/B0774VBJ3J/ref=sr_1_2_sspa?crid=3J6H8LMHZ3SS7&dib=eyJ2IjoiMSJ9.35ltPefTPqBOnQt_Ox_TI26xwO1SUs2D77_fY3-RewSFTh-Cg8mBGlhuQxJwY89Mr4AgBN51BE7EsK02txVfVMnuuAjss-PjZL7qeSK4j40VJrMjoEril4qtKCOSjhfoPAH9JvUulpll43v0f4zjy2FrXDKvMc4G_wxu7sPNflaKCRbgrA9vVlxch59x1EZD3Y7EnoJa7C-2_ka6BTX_5JUtUE_swCo9AXBNMqk3MVs.SY4UzEpKVAgJBn7IC6m1spKX7Eiw372FChIrKJbkStU&dib_tag=se&keywords=pin+headers&qid=1793638701&sprefix=pin+headers%2Caps%2C236&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | $10 for a kit |
+| J3 | CON_5051104091_MOL | 1 | 5051104091 | [Link](https://www.digikey.com/en/products/detail/molex/5051104091/5254662?s=N4IgTCBcDaIKwAY4EZkICwIJzJAXQF8g) | $2.25 |
 | L1 | 1008 | 1 | 1.5uH | [Link](https://www.digikey.com/en/products/detail/murata-electronics/DFE252012P-1R5M-P2/5247259) | $0.22 |
 | LS1 | CUI_CEM-1203_42_ | 1 | CEM-1203_42_ | [Link](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CEM-1203-42/412412) | $1.04 |
 | Q1 | SOT-23 | 1 | MMBT3904 | [Link](https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MMBT3904-TP/717280) | $0.11 |
@@ -49,6 +49,9 @@ Some features of the LoRA talkie are:<br>
 | U5 | PSON50P145X100X60-6N | 1 | TPD4S012DRYR | [Link](https://www.digikey.com/en/products/detail/texas-instruments/TPD4S012DRYR/2037539) | $1.19 |
 | U6 | IC_MCP16362T-E_NMX | 1 | MCP16362T-E_NMX | [Link](https://www.digikey.com/en/products/detail/microchip-technology/MCP16362T-E-NMXVAO/14291783) | $2.33 |
 | U7 | TRANS_UT6J3_ROM | 1 | UT6K3TCR | [Link](https://www.digikey.com/en/products/detail/rohm-semiconductor/UT6K3TCR/6573277) | $1.23 |
+|:---|:---|:---:|:---|:---|:---|
+Battery:[Link](https://www.digikey.com/en/products/detail/jauch-quartz/LIINR18650JD-26E-2-6AH/26408508),$10.02<br>
+LCD Screen:[Link](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-2-4-240320AF-CSXP/22204988), $13.94,<br>
 
 # FIRMWARE
 
