@@ -12,9 +12,9 @@ Some features of the LoRA talkie are:<br>
 # Parts
 ## Bill of Materials (BOM)
 
-| Reference | Footprint | Quantity | Value | Links |
-|:---|:---|:---:|:---|:---|
-| B1 | BAT_BH-18650-PC_MPD | 1 | Holder | |
+| Reference | Footprint | Quantity | Value | Links | Price |
+|:---|:---|:---:|:---|:---|:---|
+| B1 | BAT_BH-18650-PC_MPD | 1 | Holder | Link[https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BH-18650-PC/3029216?s=N4IgTCBcDaIEIAkC0BGAHANgKwAYkAUBhEAXQF8g] | $3.35 |
 | C1 | 0402 | 1 | 1uF | |
 | C10, C11, C12, C13, C14, C15, C18, C19, C21, C3, C5, C9 | 0402 | 12 | 0.1uF | |
 | C16, C2, C20, C24, C4, C6, C7 | 0402 | 7 | 10uF | |
