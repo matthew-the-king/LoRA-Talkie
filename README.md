@@ -49,7 +49,7 @@ Some features of the LoRA talkie are:<br>
 | U5 | PSON50P145X100X60-6N | 1 | TPD4S012DRYR | [Link](https://www.digikey.com/en/products/detail/texas-instruments/TPD4S012DRYR/2037539) | $1.19 |
 | U6 | IC_MCP16362T-E_NMX | 1 | MCP16362T-E_NMX | [Link](https://www.digikey.com/en/products/detail/microchip-technology/MCP16362T-E-NMXVAO/14291783) | $2.33 |
 | U7 | TRANS_UT6J3_ROM | 1 | UT6K3TCR | [Link](https://www.digikey.com/en/products/detail/rohm-semiconductor/UT6K3TCR/6573277) | $1.23 |
-|:---|:---|:---:|:---|:---|:---|
+
 Battery:[Link](https://www.digikey.com/en/products/detail/jauch-quartz/LIINR18650JD-26E-2-6AH/26408508),$10.02<br>
 LCD Screen:[Link](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-2-4-240320AF-CSXP/22204988), $13.94,<br>
 
