@@ -46,6 +46,14 @@ SPI_HandleTypeDef hspi1;
 SPI_HandleTypeDef hspi2;
 
 /* USER CODE BEGIN PV */
+char Message[100]; //Max message Length is 100
+char Avaliable_Characters[3][9] = {
+		{'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o'},
+		{'p', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k'},
+		{'l', 'z', 'x', 'c', 'v', 'b', 'n', 'm', ' '}
+};
+
+
 
 /* USER CODE END PV */
 
@@ -56,6 +64,22 @@ static void MX_I2C1_Init(void);
 static void MX_SPI1_Init(void);
 static void MX_SPI2_Init(void);
 /* USER CODE BEGIN PFP */
+
+void Initialize_Screen()
+{
+
+}
+
+void Initialize_Radio()
+{
+
+}
+
+void Transmit_Message()
+{
+
+}
+
 
 /* USER CODE END PFP */
 
@@ -97,6 +121,10 @@ int main(void)
   MX_SPI1_Init();
   MX_SPI2_Init();
   /* USER CODE BEGIN 2 */
+  Initialize_Screen(); //initialize Screen
+  Initialize_Radio(); //initialize LoRa module
+  int Cursor_Position[2] = {0,0};
+
 
   /* USER CODE END 2 */
 
@@ -105,6 +133,41 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+	  GPIO_PinState Up_Button = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_8);
+	  GPIO_PinState Right_Button = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_9);
+	  GPIO_PinState Down_Button = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_10);
+	  GPIO_PinState Middle_Button = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_11);
+	  GPIO_PinState Left_button = HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_12);
+
+	  if (Up_Button == GPIO_PIN_SET)
+	  {
+
+	  }
+
+	  if (Right_Button == GPIO_PIN_SET)
+	  {
+
+	  }
+
+	  if (Down_Button == GPIO_PIN_SET)
+	  {
+
+	  }
+
+	  if (Middle_Button == GPIO_PIN_SET)
+	  {
+		  if (Cursor_Position[0] == 1 && Cursor_Position[1] = 0) // X=1, Y=0 is the position of send button
+		  {
+			  Transmit_Message();
+		  }
+	  }
+
+	  if (Left_button == GPIO_PIN_SET)
+	  {
+
+	  }
+
+
 
     /* USER CODE BEGIN 3 */
   }
