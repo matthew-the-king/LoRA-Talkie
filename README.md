@@ -1,4 +1,5 @@
 # LoRA-Talkie
+
 <img width="530" height="569" alt="image" src="https://github.com/user-attachments/assets/f21416f9-172d-48bb-a257-a688488ba8b5" />
 <img width="415" height="650" alt="image" src="https://github.com/user-attachments/assets/f5ce1561-2d39-43b9-beb7-978eb588cad6" />
 
@@ -51,8 +52,8 @@ Some features of the LoRA talkie are:<br>
 | U7 | TRANS_UT6J3_ROM | 1 | UT6K3TCR | [Link](https://www.digikey.com/en/products/detail/rohm-semiconductor/UT6K3TCR/6573277) | $1.23 |
 
 Battery:[Link](https://www.digikey.com/en/products/detail/jauch-quartz/LIINR18650JD-26E-2-6AH/26408508),$10.02<br>
-LCD Screen:[Link](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-2-4-240320AF-CSXP/22204988), $13.94,<br>
-
+LCD Screen:[Link](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-2-4-240320AF-CSXP/22204988), $13.94<br>
+Use JLCPCB for the cheapest board cost; it is around $8 for 5 boards, plus $15 for shipping. 
 # FIRMWARE
 
 Not much here; I have not got the boards yet.
